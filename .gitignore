@@ -19,5 +19,5 @@
 # User-specific files ----
 README.html
 inst/doc
-man/
-NAMESPACE
+renv/
+.Rprofile
